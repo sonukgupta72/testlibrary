@@ -1,1 +1,1 @@
-include ':app', ':numbertoword'
+include ':app', ':numbertoword', ':indianamountformat'
